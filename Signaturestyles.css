@@ -1,0 +1,20 @@
+header {
+    background-color: skyblue;
+}
+body {
+    text-align: center;
+    background-image: url("images\ For\ CSS/transbackground.jpg");
+}
+
+img {
+    text-align: center;
+    border: groove 5px black;
+}
+p {
+    text-align: center;
+    background-color: white;
+}
+
+footer {
+    background-color: pink;
+}
