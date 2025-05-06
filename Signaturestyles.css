@@ -3,18 +3,32 @@
 }
 
 nav {
-    
+    margin: 0;
+    background-color: skyblue;
+    text-decoration:none;
+    font-size: 50px ;
+    width: 100%;
+    padding:0;
+    display:flex;
+    justify-content:space-evenly;   
 }
 
 body {
     text-align: center;
+    font-size: 50px;
     background-image: url("images\ For\ CSS/transbackground.jpg");
 }
 
 #THEGAYS {
-    box-align:center;
+    box-align: center;
     width: 5px;
     height: 5px;
+}
+
+h1 {
+    text-align: center;
+    background-color: pink;
+
 }
 
 p {
